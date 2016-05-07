@@ -1,0 +1,85 @@
+@charset "utf-8";
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.thumb {
+    margin-bottom: 30px;
+	 margin-top: 20px;
+}
+
+.header {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url(../img/background1.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	color:white;
+	border: 3px solid white;
+}
+
+.sidebar-nav {
+	           background: url(../img/menu.jpg) no-repeat center center scroll;
+			   height:100%;
+			   width:100%;
+			   border: 3px solid white;		   
+}
+
+.sidebar-brand h3 {
+	                color:white;
+}
+
+
+	        
+#carousel-example-generic {
+	                       border: 3px solid white;
+}
+
+
+
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+
+.container{
+	       width:100%;
+		   
+		   background: url(../img/background1.jpg) no-repeat center center scroll;
+		   border:3px solid white;
+		   
+}
+
+.col-lg-12 { 
+              background: url(../img/background1.jpg) no-repeat center center scroll;
+              width:100%;
+			  border:3px solid white;
+			  color:white;			  	
+}
+
+
+	        
+
+
+footer {
+	       
+			border:3px solid white;
+			color:white;
+		    background: url(../img/background1.jpg) no-repeat center center scroll;
+			padding:0;
+			margin:0;
+			width:100%;					 		
+}
+
+.text-muted {
+	         color:white;
+}
+

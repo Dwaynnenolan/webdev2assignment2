@@ -1,0 +1,68 @@
+@charset "utf-8";
+.header,
+.sidebar-nav,
+body,
+html {
+    height: 100%;
+    width: 100%
+}
+
+.col-lg-12,
+.container,
+.header,
+body,
+html {
+    width: 100%
+}
+
+.col-lg-12,
+.header,
+.sidebar-brand h3,
+.text-muted,
+footer {
+    color: #fff
+}
+
+.thumb {
+    margin-bottom: 30px;
+    margin-top: 20px
+}
+
+.header {
+    display: table;
+    position: relative;
+    background: url(../img/background1.jpg) center center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    border: 3px solid #fff
+}
+
+.sidebar-nav {
+    background: url(../img/menu.jpg) center center no-repeat;
+    border: 3px solid #fff
+}
+
+.col-lg-12,
+.container,
+footer {
+    border: 3px solid #fff;
+    background: url(../img/background1.jpg) center center no-repeat
+}
+
+#carousel-example-generic {
+    border: 3px solid #fff
+}
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: #fff
+}
+
+footer {
+    padding: 0;
+    margin: 0
+}
+
